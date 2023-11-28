@@ -1,3 +1,30 @@
+### Cyclistic Bike-Share Analysis Project
+# In this data analysis project, I tackled a case presented by Cyclistic, a leading bike-share company in Chicago.
+# The challenge was to understand the behavioral differences between casual riders and annual members, with the ultimate goal of informing a new marketing strategy to convert casual riders into loyal, annual members.
+
+## The Challenge
+# The marketing team at Cyclistic, led by Lily Moreno, the Director of Marketing, sought insights backed by compelling data to maximize the number of annual memberships.
+# The company's success hinged on attracting and retaining these long-term members.
+# As a junior data analyst, my role was to analyze historical bike trip data and extract meaningful patterns and trends that could guide the development of a persuasive marketing campaign.
+
+## About Cyclistic
+# Cyclistic operates an extensive bike-share program in Chicago, featuring over 5,800 bicycles and 600 docking stations.
+# The program stands out by offering diverse options, including reclining bikes, hand tricycles, and cargo bikes, making it inclusive for various user demographics.
+# Understanding the preferences and behaviors of Cyclistic users, who range from leisure riders to daily commuters, was a key aspect of this analysis.
+
+## Project Scope
+# The heart of the project lay in dissecting Cyclistic's historical bike trip data.
+# By examining how casual riders and annual members utilized the bike-share program, the aim was to uncover insights into their differing behaviors, motivations, and preferences.
+# This information was crucial for designing a targeted marketing strategy that could effectively convert casual riders into committed annual members.
+
+## Importance of Annual Memberships
+# Cyclistic's executives had already established that annual members significantly contribute to the company's profitability compared to casual riders.
+# This emphasized the strategic importance of developing marketing initiatives tailored to encourage the transition from casual usage to long-term memberships.
+
+## Throughout this project, I applied advanced data analysis techniques using the R language, as reflected in the subsequent sections of this code repository.
+# The visualizations and insights presented here aim to provide a comprehensive understanding of the distinctions between casual riders and annual members, laying the groundwork for a data-driven marketing approach.
+# Let's begin.
+
 # Load tidyverse for data analysis
 library(tidyverse)
 # Load skimr for summary statistics
